@@ -1,0 +1,4 @@
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\KomodoInsurance\obj\Debug\KomodoInsurance.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\KomodoInsurance\obj\Debug\KomodoInsurance.Properties.Resources.resources
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\KomodoInsurance\obj\Debug\KomodoInsurance.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\KomodoInsurance\obj\Debug\KomodoInsurance.csproj.CoreCompileInputs.cache

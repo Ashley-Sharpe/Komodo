@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\bin\Debug\DevTeamRepo.dll
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\bin\Debug\DevTeamRepo.pdb
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\bin\Debug\Developer.dll
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\bin\Debug\DevTeam.dll
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\bin\Debug\Developer.pdb
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\bin\Debug\DevTeam.pdb
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\obj\Debug\DevTeamRepo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\obj\Debug\DevTeamRepo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\obj\Debug\DevTeamRepo.csproj.CopyComplete
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\obj\Debug\DevTeamRepo.dll
+C:\ElevenFiftyProjects\Gold Badge\Komodo Insurance\KomodoInsurance\DevTeamRepo\obj\Debug\DevTeamRepo.pdb
